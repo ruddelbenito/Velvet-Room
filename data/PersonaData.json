@@ -1,0 +1,410 @@
+{
+    "template": {
+        "arcana": "",
+        "level": 0,
+        "inherit": "",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            ""
+        ]
+    },
+    "Arsène": {
+        "arcana": "",
+        "level": 1,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Ice",
+            "Bless"
+        ],
+        "skills": [
+            "Eiha",
+            "Cleave",
+            "Sukunda",
+            "Dream Needle",
+            "Adverse Resolve"
+        ]
+    },
+    "Obariyon": {
+        "arcana": "",
+        "level": 8,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Snap",
+            "Sukunda",
+            "Lucky Punch",
+            "Resist Fear",
+            "Dekaja"
+        ]
+    },
+    "Orpheus (F)": {
+        "arcana": "Fool",
+        "level": 11,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Electricity",
+            "Curse"
+        ],
+        "skills": [
+            "Neo Cadenza",
+            "Agi",
+            "Tarunda",
+            "Endure",
+            "Maragion",
+            "Marakukaja",
+            "Dodge Curse"
+        ]
+    },
+    "Orpheus Picaro (F)": {
+        "arcana": "Fool",
+        "level": 13,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Electricity",
+            "Curse"
+        ],
+        "skills": [
+            "Neo Cadenza",
+            "Maragi",
+            "Rakunda",
+            "Endure",
+            "Agilao",
+            "Marakukaja",
+            "Dodge Curse"
+        ]
+    },
+    "High Pixie": {
+        "arcana": "Fool",
+        "level": 16,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity",
+            "Wind"
+        ],
+        "weakness": [
+            "Gun",
+            "Nuclear"
+        ],
+        "skills": [
+            "Garu",
+            "Media",
+            "Dormina",
+            "Diarama",
+            "Pulinpa",
+            "Magaru"
+        ]
+    },
+    "Izanagi": {
+        "arcana": "Fool",
+        "level": 20,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Cross Slash",
+            "Zionga",
+            "Tarukaja",
+            "Rising Slash",
+            "Dodge Phys",
+            "Mazionga",
+            "Growth 3"
+        ]
+    },
+    "Izanagi Picaro": {
+        "arcana": "Fool",
+        "level": 23,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity",
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            ""
+        ]
+    },
+    "Orpheus": {
+        "arcana": "Fool",
+        "level": 26,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Electricity",
+            "Curse"
+        ],
+        "skills": [
+            "Cadenza",
+            "Agilao",
+            "Tarunda",
+            "Endure",
+            "Maragion",
+            "Marakukaja",
+            "Fire Boost"
+        ]
+    },
+    "Orpheus Picaro": {
+        "arcana": "Fool",
+        "level": 29,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Electricity",
+            "Curse"
+        ],
+        "skills": [
+            "Cadenza",
+            "Maragion",
+            "Matarunda",
+            "Endure",
+            "Agidyne",
+            "Matarukaja",
+            "Fire Boost"
+        ]
+    },
+    "Legion": {
+        "arcana": "Fool",
+        "level": 38,
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Physical",
+            "Gun",
+            "Fire",
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Bloodbath",
+            "Life Drain",
+            "Evil Smile",
+            "Foul Breath",
+            "Tetra Break",
+            "Null Dizzy",
+            "Eigaon"
+        ]
+    },
+    "Ose": {
+        "arcana": "Fool",
+        "level": 42,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse",
+            "Gun"
+        ],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Oni-Kagura",
+            "Counterstrike",
+            "Charge",
+            "Tempest Slash",
+            "Matarukaja",
+            "Heat Wave"
+        ]
+    },
+    "Bugs": {
+        "arcana": "Fool",
+        "level": 49,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Miracle Punch",
+            "Masukunda",
+            "Psiodyne",
+            "Auto-Mataru",
+            "Triple Down",
+            "Evade Phys",
+            "Fast Heal"
+        ]
+    },
+    "Black Frost": {
+        "arcana": "Fool",
+        "level": 67,
+        "inherit": "Almighty",
+        "reflect": [
+            "Fire",
+            "Curse"
+        ],
+        "absorb": [
+            "Ice"
+        ],
+        "block": [
+            "Nuclear"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Mabufudyne",
+            "One-shot Kill",
+            "Miracle Punch",
+            "Ice Amp",
+            "Freeze Boost",
+            "Repel Fire",
+            "Diamond Dust"
+        ]
+    },
+    "Raoul": {
+        "arcana": "Fool",
+        "level": 76,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Phantom Show",
+            "Eigaon",
+            "Ali Dance",
+            "Maeigaon",
+            "Heat Riser",
+            "Curse Amp",
+            "Concentrate",
+            "Life Aid"
+        ]
+    },
+    "Vishnu": {
+        "arcana": "Fool",
+        "level": 83,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [
+            "Ice"
+        ],
+        "block": [
+            "Bless",
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Megidolaon",
+            "Magarudyne",
+            "Ali Dance",
+            "Vacuum Wave",
+            "Concentrate",
+            "Repel Fire",
+            "Wind Amp",
+            "Riot Gun"
+        ]
+    },
+    "Satanael": {
+        "arcana": "Fool",
+        "level": 95,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [
+            "Curse"
+        ],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Physical",
+            "Gun",
+            "Fire",
+            "Ice",
+            "Electricity",
+            "Wind",
+            "Psychokinesis",
+            "Nuclear"
+        ],
+        "weakness": [],
+        "skills": [
+            "Maeigaon",
+            "Megidolaon",
+            "Survival Trick",
+            "Riot Gun",
+            "Black Viper",
+            "Heat Riser",
+            "Tyrant's Mind",
+            "Victory Cry",
+            "Sinful Shell"
+        ]
+    }
+}
