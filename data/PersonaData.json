@@ -789,6 +789,316 @@
             "Auto-Maraku"
         ]
     },
+    "Johanna": {
+        "arcana": "Priestess",
+        "level": 21,
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Nuclear"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Frei",
+            "Mafrei",
+            "Vajra Blast",
+            "Diarama",
+            "Rakukaja",
+            "Makajama",
+            "Freila",
+            "Energy Shower",
+            "Flash Bomb",
+            "Dekunda",
+            "Defense Master",
+            "Mafreila",
+            "Mediarama",
+            "Nuke Break",
+            "Nuke Boost",
+            "Marakukaja",
+            "Freidyne",
+            "Diarahan",
+            "Mafreidyne",
+            "Mediarahan",
+            "Nuke Amp",
+            "Atomic Flare"
+        ]
+    },
+    "Anat": {
+        "arcana": "Priestess",
+        "level": "Inherited",
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Nuclear"
+        ],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Frei",
+            "Mafrei",
+            "Vajra Blast",
+            "Diarama",
+            "Rakukaja",
+            "Makajama",
+            "Freila",
+            "Energy Shower",
+            "Flash Bomb",
+            "Dekunda",
+            "Defense Master",
+            "Mafreila",
+            "Mediarama",
+            "Nuke Break",
+            "Nuke Boost",
+            "Marakukaja",
+            "Freidyne",
+            "Diarahan",
+            "Mafreidyne",
+            "Mediarahan",
+            "Nuke Amp",
+            "Atomic Flare",
+            "Evade Psy"
+        ]
+    },
+    "Agnes": {
+        "arcana": "Priestess",
+        "level": "Inherited",
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Nuclear"
+        ],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Frei",
+            "Mafrei",
+            "Vajra Blast",
+            "Diarama",
+            "Rakukaja",
+            "Makajama",
+            "Freila",
+            "Energy Shower",
+            "Flash Bomb",
+            "Dekunda",
+            "Defense Master",
+            "Mafreila",
+            "Mediarama",
+            "Nuke Break",
+            "Nuke Boost",
+            "Marakukaja",
+            "Freidyne",
+            "Diarahan",
+            "Mafreidyne",
+            "Mediarahan",
+            "Nuke Amp",
+            "Atomic Flare",
+            "Evade Psy",
+            "Checkmate"
+        ]
+    },
+    "Silky": {
+        "arcana": "Priestess",
+        "level": 6,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Fire",
+            "Electricity"
+        ],
+        "skills": [
+            "Bufu",
+            "Dormina",
+            "Dia",
+            "Patra",
+            "Sharp Student"
+        ]
+    },
+    "Apsaras": {
+        "arcana": "Priestess",
+        "level": 11,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Fire",
+            "Electricity"
+        ],
+        "skills": [
+            "Rebellion",
+            "Ice Wall",
+            "Bufu",
+            "Media",
+            "Elec Wall",
+            "Wind Wall"
+        ]
+    },
+    "Isis": {
+        "arcana": "Priestess",
+        "level": 26,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Makouga",
+            "Mahama",
+            "Diarama",
+            "Resist Despair",
+            "Hamaon",
+            "Hama Boost",
+            "Makarakarn"
+        ]
+    },
+    "Kikuri-Hime": {
+        "arcana": "Priestess",
+        "level": 40,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Wind"
+        ],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Lullaby",
+            "Marakukaja",
+            "Energy Drop",
+            "Mediarama",
+            "Tetraja",
+            "Divine Grace"
+        ]
+    },
+    "Sarasvati": {
+        "arcana": "Priestess",
+        "level": 50,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Mediarama",
+            "Ice Wall",
+            "Tentarafoo",
+            "Psy Wall",
+            "Dekaja",
+            "Matarunda",
+            "Diarahan"
+        ]
+    },
+    "Skadi": {
+        "arcana": "Priestess",
+        "level": 53,
+        "inherit": "Ice",
+        "reflect": [
+            "Ice"
+        ],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Deadly Fury",
+            "Evil Smile",
+            "Fear Boost",
+            "Ghastly Wail",
+            "Mabufudyne",
+            "Maeigaon",
+            "Spirit Drain"
+        ]
+    },
+    "Scathach": {
+        "arcana": "Priestess",
+        "level": 77,
+        "inherit": "Wind",
+        "reflect": [
+            "Electricity"
+        ],
+        "absorb": [],
+        "block": [
+            "Ice",
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Mabufudyne",
+            "Myriad Slashes",
+            "Makarakarn",
+            "Freeze Boost",
+            "Matarukaja",
+            "Vorpal Blade",
+            "Attack Master"
+        ]
+    },
+    "Cybele": {
+        "arcana": "Priestess",
+        "level": 73,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Samarecarm",
+            "Mediarahan",
+            "Makougaon",
+            "Bless Amp",
+            "Auto-Maraku",
+            "Drain Bless",
+            "Salvation"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
