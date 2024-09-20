@@ -1,17 +1,4 @@
 {
-    "template": {
-        "arcana": "",
-        "level": 0,
-        "inherit": "",
-        "reflect": [],
-        "absorb": [],
-        "block": [],
-        "resist": [],
-        "weakness": [],
-        "skills": [
-            ""
-        ]
-    },
     "Arsène": {
         "arcana": "",
         "level": 1,
@@ -405,6 +392,414 @@
             "Tyrant's Mind",
             "Victory Cry",
             "Sinful Shell"
+        ]
+    },
+    "Zorro": {
+        "arcana": "Magician",
+        "level": 1,
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Garu",
+            "Dia",
+            "Patra",
+            "Media",
+            "Lucky Punch",
+            "Magaru",
+            "Pulinpa",
+            "Me Patra",
+            "Diarama",
+            "Garula",
+            "Recarm",
+            "Wind Break",
+            "Mediarama",
+            "Magarula",
+            "Miracle Punch",
+            "Wind Boost",
+            "Samarecarm",
+            "Diarahan",
+            "Garudyne",
+            "Masukunda",
+            "Mediarahan",
+            "Magarudyne",
+            "Wind Amp",
+            "Salvation"
+        ]
+    },
+    "Mercurius": {
+        "arcana": "Magician",
+        "level": "Inherited",
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Wind"
+        ],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Garu",
+            "Dia",
+            "Patra",
+            "Media",
+            "Lucky Punch",
+            "Magaru",
+            "Pulinpa",
+            "Me Patra",
+            "Diarama",
+            "Garula",
+            "Recarm",
+            "Wind Break",
+            "Mediarama",
+            "Magarula",
+            "Miracle Punch",
+            "Wind Boost",
+            "Samarecarm",
+            "Diarahan",
+            "Garudyne",
+            "Masukunda",
+            "Mediarahan",
+            "Magarudyne",
+            "Wind Amp",
+            "Salvation",
+            "Evade Elec"
+        ]
+    },
+    "Diego": {
+        "arcana": "Magician",
+        "level": "Inherited",
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Wind"
+        ],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Garu",
+            "Dia",
+            "Patra",
+            "Media",
+            "Lucky Punch",
+            "Magaru",
+            "Pulinpa",
+            "Me Patra",
+            "Diarama",
+            "Garula",
+            "Recarm",
+            "Wind Break",
+            "Mediarama",
+            "Magarula",
+            "Miracle Punch",
+            "Wind Boost",
+            "Samarecarm",
+            "Diarahan",
+            "Garudyne",
+            "Masukunda",
+            "Mediarahan",
+            "Magarudyne",
+            "Wind Amp",
+            "Salvation",
+            "Evade Elec",
+            "Miracle Rush"
+        ]
+    },
+    "Jack-o'-Lantern": {
+        "arcana": "Magician",
+        "level": 2,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [],
+        "resist": [],
+        "weakness": [
+            "Ice",
+            "Wind"
+        ],
+        "skills": [
+            "Agi",
+            "Rakunda",
+            "Sharp Student",
+            "Dazzler",
+            "Resist Sleep"
+        ]
+    },
+    "Cait Sith": {
+        "arcana": "Magician",
+        "level": 5,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Agi",
+            "Cleave",
+            "Tarukaja",
+            "Resist Sleep",
+            "Sukukaja",
+            "Media"
+        ]
+    },
+    "Jack Frost": {
+        "arcana": "Magician",
+        "level": 11,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice"
+        ],
+        "resist": [],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Bufu",
+            "Ice Break",
+            "Baisudi",
+            "Mabufu",
+            "Rakunda",
+            "Freeze Boost"
+        ]
+    },
+    "Nekomata": {
+        "arcana": "Magician",
+        "level": 17,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Magaru",
+            "Terror Claw",
+            "Evil Touch",
+            "Hysterical Slap",
+            "Wind Break",
+            "Elec Wall",
+            "Dodge Elec"
+        ]
+    },
+    "Sandman": {
+        "arcana": "Magician",
+        "level": 23,
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Electricity",
+            "Fire"
+        ],
+        "skills": [
+            "Dormina",
+            "Garula",
+            "Dormin Rush",
+            "Sukunda",
+            "Null Sleep",
+            "Magarula",
+            "Sleep Boost"
+        ]
+    },
+    "Choronzon": {
+        "arcana": "Magician",
+        "level": 28,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Pulinpa",
+            "Life Drain",
+            "Rampage",
+            "Maeiha",
+            "Dodge Elec",
+            "Eiga",
+            "Curse Boost",
+            "Climate Decorum"
+        ]
+    },
+    "Queen Mab": {
+        "arcana": "Magician",
+        "level": 43,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Fire"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Mazionga",
+            "Makajamaon",
+            "Burn Boost",
+            "Matarunda",
+            "Makara Break",
+            "Agidyne",
+            "Concentrate"
+        ]
+    },
+    "Rangda": {
+        "arcana": "Magician",
+        "level": 48,
+        "inherit": "Curse",
+        "reflect": [
+            "Physical",
+            "Gun"
+        ],
+        "absorb": [],
+        "block": [
+            "Fire",
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Electricity",
+            "Bless"
+        ],
+        "skills": [
+            "Swift Strike",
+            "Bloodbath",
+            "Counterstrike",
+            "Eigaon",
+            "Matarunda",
+            "Mudoon"
+        ]
+    },
+    "Forneus": {
+        "arcana": "Magician",
+        "level": 63,
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [
+            "Ice"
+        ],
+        "block": [
+            "Psychokinesis"
+        ],
+        "resist": [],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Psiodyne",
+            "Brain Jack",
+            "Masukunda",
+            "Survival Trick",
+            "Stagnant Air",
+            "Mapsiodyne",
+            "Evade Psy"
+        ]
+    },
+    "Surt": {
+        "arcana": "Magician",
+        "level": 83,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Gun",
+            "Nuclear"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Blazing Hell",
+            "Attack Master",
+            "Brave Blade",
+            "Fire Amp",
+            "Marakunda",
+            "Evade Ice",
+            "Gigantomachia"
+        ]
+    },
+    "Futsunushi": {
+        "arcana": "Magician",
+        "level": 86,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Myriad Slashes",
+            "Matarukaja",
+            "Apt Pupil",
+            "Charge",
+            "Brave Blade",
+            "Regenerate 3",
+            "Firm Stance",
+            "Auto-Maraku"
+        ]
+    },
+    "template": {
+        "arcana": "",
+        "level": 0,
+        "inherit": "",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            ""
         ]
     }
 }
