@@ -1099,6 +1099,815 @@
             "Salvation"
         ]
     },
+    "Milady": {
+        "arcana": "Empress",
+        "level": 36,
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Psio",
+            "Mapsio",
+            "Triple Down",
+            "Amrita Drop",
+            "Fast Heal",
+            "Psy Break",
+            "Tentarafoo",
+            "Tetrakarn",
+            "Psy Boost",
+            "Makarakarn",
+            "Climate Decorum",
+            "Psiodyne",
+            "Gun Boost",
+            "One-shot Kill",
+            "Amrita Shower",
+            "Mapsiodyne",
+            "Gun Amp",
+            "Psy Amp",
+            "Heat Riser"
+        ]
+    },
+    "Astarte": {
+        "arcana": "Empress",
+        "level": "Inherited",
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Psychokinesis"
+        ],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Psio",
+            "Mapsio",
+            "Triple Down",
+            "Amrita Drop",
+            "Fast Heal",
+            "Psy Break",
+            "Tentarafoo",
+            "Tetrakarn",
+            "Psy Boost",
+            "Makarakarn",
+            "Climate Decorum",
+            "Psiodyne",
+            "Gun Boost",
+            "One-shot Kill",
+            "Amrita Shower",
+            "Mapsiodyne",
+            "Gun Amp",
+            "Psy Amp",
+            "Heat Riser",
+            "Evade Nuke"
+        ]
+    },
+    "Lucy": {
+        "arcana": "Empress",
+        "level": "Inherited",
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Psychokinesis"
+        ],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Psio",
+            "Mapsio",
+            "Triple Down",
+            "Amrita Drop",
+            "Fast Heal",
+            "Psy Break",
+            "Tentarafoo",
+            "Tetrakarn",
+            "Psy Boost",
+            "Makarakarn",
+            "Climate Decorum",
+            "Psiodyne",
+            "Gun Boost",
+            "One-shot Kill",
+            "Amrita Shower",
+            "Mapsiodyne",
+            "Gun Amp",
+            "Psy Amp",
+            "Heat Riser",
+            "Evade Nuke",
+            "Life Wall"
+        ]
+    },
+    "Yaksini": {
+        "arcana": "Empress",
+        "level": 20,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun"
+        ],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Hysterical Slap",
+            "Wage War",
+            "Counter",
+            "Oni-Kagura",
+            "Attack Master",
+            "Vicious Strike"
+        ]
+    },
+    "Lamia": {
+        "arcana": "Empress",
+        "level": 26,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Ice",
+            "Nuclear"
+        ],
+        "skills": [
+            "Mudo",
+            "Rakukaja",
+            "Rising Slash",
+            "Ominous Words",
+            "Foul Breath",
+            "Mamudo",
+            "Despair Boost"
+        ]
+    },
+    "Hariti": {
+        "arcana": "Empress",
+        "level": 40,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Psychokinesis",
+            "Bless"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Zionga",
+            "Energy Shower",
+            "Mabaisudi",
+            "Samarecarm",
+            "Nocturnal Flash",
+            "Mediarama",
+            "Dizzy Boost",
+            "Spirit Drain"
+        ]
+    },
+    "Dakini": {
+        "arcana": "Empress",
+        "level": 50,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun"
+        ],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [],
+        "skills": [
+            "Bad Beat",
+            "Myriad Slashes",
+            "Rising Slash",
+            "High Counter",
+            "Deathbound",
+            "Rebellion",
+            "Charge"
+        ]
+    },
+    "Titania": {
+        "arcana": "Empress",
+        "level": 56,
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Nuclear",
+            "Bless",
+            "Curse"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Freidyne",
+            "Ziodyne",
+            "Lullaby",
+            "Concentrate",
+            "Nuke Amp",
+            "Mediarahan"
+        ]
+    },
+    "Kali": {
+        "arcana": "Empress",
+        "level": 63,
+        "inherit": "Fire",
+        "reflect": [
+            "Psychokinesis",
+            "Gun"
+        ],
+        "absorb": [],
+        "block": [
+            "Fire"
+        ],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [],
+        "skills": [
+            "Heat Wave",
+            "Bloodbath",
+            "Brave Blade",
+            "Charge",
+            "High Counter",
+            "Repel Psy",
+            "Vorpal Blade"
+        ]
+    },
+    "Alilat": {
+        "arcana": "Empress",
+        "level": 81,
+        "inherit": "Ice",
+        "reflect": [
+            "Physical",
+            "Gun"
+        ],
+        "absorb": [
+            "Ice"
+        ],
+        "block": [
+            "Psychokinesis"
+        ],
+        "resist": [],
+        "weakness": [
+            "Fire",
+            "Curse"
+        ],
+        "skills": [
+            "Diamond Dust",
+            "Marakukaja",
+            "Freeze Boost",
+            "Mabufudyne",
+            "Concentrate",
+            "Auto-Maraku",
+            "Ice Amp",
+            "Ice Age"
+        ]
+    },
+    "Mother Harlot": {
+        "arcana": "Empress",
+        "level": 80,
+        "inherit": "Ice",
+        "reflect": [
+            "Electricity"
+        ],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Mabufudyne",
+            "Mamudoon",
+            "Mudo Boost",
+            "Ice Age",
+            "Ice Amp",
+            "Null Bless",
+            "Debilitate"
+        ]
+    },
+    "Goemon": {
+        "arcana": "Emperor",
+        "level": 15,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Bufu",
+            "Giant Slice",
+            "Sukukaja",
+            "Vicious Strike",
+            "Mabufu",
+            "Counter",
+            "Rising Slash",
+            "Dormin Rush",
+            "Bufula",
+            "Speed Master",
+            "Tempest Slash",
+            "Counterstrike",
+            "Mabufula",
+            "Heat Wave",
+            "Deadly Fury",
+            "Masukukaja",
+            "Bufudyne",
+            "High Counter",
+            "Myriad Slashes",
+            "Mabufudyne",
+            "Vorpal Blade",
+            "Brave Blade"
+        ]
+    },
+    "Kamu Susano-o": {
+        "arcana": "Emperor",
+        "level": "Inherited",
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice"
+        ],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Bufu",
+            "Giant Slice",
+            "Sukukaja",
+            "Vicious Strike",
+            "Mabufu",
+            "Counter",
+            "Rising Slash",
+            "Dormin Rush",
+            "Bufula",
+            "Speed Master",
+            "Tempest Slash",
+            "Counterstrike",
+            "Mabufula",
+            "Heat Wave",
+            "Deadly Fury",
+            "Masukukaja",
+            "Bufudyne",
+            "High Counter",
+            "Myriad Slashes",
+            "Mabufudyne",
+            "Vorpal Blade",
+            "Brave Blade",
+            "Evade Fire"
+        ]
+    },
+    "Gorokichi": {
+        "arcana": "Emperor",
+        "level": "Inherited",
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice"
+        ],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Bufu",
+            "Giant Slice",
+            "Sukukaja",
+            "Vicious Strike",
+            "Mabufu",
+            "Counter",
+            "Rising Slash",
+            "Dormin Rush",
+            "Bufula",
+            "Speed Master",
+            "Tempest Slash",
+            "Counterstrike",
+            "Mabufula",
+            "Heat Wave",
+            "Deadly Fury",
+            "Masukukaja",
+            "Bufudyne",
+            "High Counter",
+            "Myriad Slashes",
+            "Mabufudyne",
+            "Vorpal Blade",
+            "Brave Blade",
+            "Evade Fire",
+            "Hyakka Ryouran"
+        ]
+    },
+    "Eligor": {
+        "arcana": "Emperor",
+        "level": 16,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Gun",
+            "Fire",
+            "Curse"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Maragi",
+            "Sharp Student",
+            "Tarukaja",
+            "Double Fangs",
+            "Sukunda",
+            "Memory Blow"
+        ]
+    },
+    "Setanta": {
+        "arcana": "Emperor",
+        "level": 25,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Gun",
+            "Nuclear"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Giant Slice",
+            "Dormin Rush",
+            "Counter",
+            "Charge",
+            "Rebellion",
+            "Rising Slash"
+        ]
+    },
+    "Thoth": {
+        "arcana": "Emperor",
+        "level": 36,
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Nuclear",
+            "Bless"
+        ],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Taunt",
+            "Freila",
+            "Masukunda",
+            "Megido",
+            "Psy Wall",
+            "Concentrate",
+            "Growth 2"
+        ]
+    },
+    "Barong": {
+        "arcana": "Emperor",
+        "level": 52,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Gun",
+            "Electricity"
+        ],
+        "weakness": [
+            "Wind",
+            "Curse"
+        ],
+        "skills": [
+            "Ziodyne",
+            "Wage War",
+            "Elec Break",
+            "Invigorate 2",
+            "Null Elec",
+            "Maziodyne"
+        ]
+    },
+    "King Frost": {
+        "arcana": "Emperor",
+        "level": 61,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [
+            "Ice"
+        ],
+        "block": [
+            "Bless"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Bufudyne",
+            "Ice Break",
+            "Megaton Raid",
+            "Freeze Boost",
+            "Mabufudyne",
+            "Concentrate",
+            "Ice Amp"
+        ]
+    },
+    "Oberon": {
+        "arcana": "Emperor",
+        "level": 66,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Psychokinesis"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Ziodyne",
+            "Nocturnal Flash",
+            "Heat Wave",
+            "Matarukaja",
+            "Myriad Slashes",
+            "Evade Nuke",
+            "Samarecarm",
+            "Elec Amp"
+        ]
+    },
+    "Baal": {
+        "arcana": "Emperor",
+        "level": 82,
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [
+            "Wind"
+        ],
+        "block": [],
+        "resist": [
+            "Fire",
+            "Bless"
+        ],
+        "weakness": [],
+        "skills": [
+            "Panta Rhei",
+            "Revolution",
+            "Matarukaja",
+            "Ayamur",
+            "Tetraja",
+            "Charge",
+            "Vacuum Wave"
+        ]
+    },
+    "Odin": {
+        "arcana": "Emperor",
+        "level": 84,
+        "inherit": "Electricity",
+        "reflect": [
+            "Bless",
+            "Curse"
+        ],
+        "absorb": [
+            "Wind"
+        ],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Thunder Reign",
+            "Myriad Slashes",
+            "Marakukaja",
+            "Wild Thunder",
+            "Concentrate",
+            "Fast Heal",
+            "Elec Amp"
+        ]
+    },
+    "Berith": {
+        "arcana": "Hierophant",
+        "level": 9,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun"
+        ],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Cleave",
+            "Rakukaja",
+            "Tarukaja",
+            "Dodge Fire",
+            "Power Slash"
+        ]
+    },
+    "Orobas": {
+        "arcana": "Hierophant",
+        "level": 17,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Wind",
+            "Curse"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Maragi",
+            "Sukukaja",
+            "Dekaja",
+            "Marakunda",
+            "Fire Break",
+            "Makajamaon"
+        ]
+    },
+    "Anzu": {
+        "arcana": "Hierophant",
+        "level": 25,
+        "inherit": "Wind",
+        "reflect": [
+            "Wind"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Gun",
+            "Nuclear"
+        ],
+        "skills": [
+            "Garula",
+            "Masukukaja",
+            "Wind Break",
+            "Assault Dive",
+            "Dekaja",
+            "Null Forget"
+        ]
+    },
+    "Daisoujou": {
+        "arcana": "Hierophant",
+        "level": 40,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Curse"
+        ],
+        "skills": [
+            "Spirit Drain",
+            "Makouga",
+            "Samsara",
+            "Bless Boost",
+            "Diarahan",
+            "Me Patra",
+            "Null Rage"
+        ]
+    },
+    "Mishaguji": {
+        "arcana": "Hierophant",
+        "level": 52,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [
+            "Curse"
+        ],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Regenerate 3",
+            "Brain Jack",
+            "Psiodyne",
+            "One-shot Kill",
+            "Endure",
+            "Deathbound",
+            "Ailment Boost"
+        ]
+    },
+    "Bishamonten": {
+        "arcana": "Hierophant",
+        "level": 67,
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [],
+        "resist": [
+            "Bless",
+            "Curse"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Freidyne",
+            "Diarahan",
+            "Deadly Fury",
+            "Mafreidyne",
+            "Nuke Amp",
+            "Tetrakarn",
+            "God's Hand"
+        ]
+    },
+    "Kohryu": {
+        "arcana": "Hierophant",
+        "level": 76,
+        "inherit": "Psychokinesis",
+        "reflect": [
+            "Electricity"
+        ],
+        "absorb": [],
+        "block": [
+            "Nuclear",
+            "Bless"
+        ],
+        "resist": [],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Psycho Force",
+            "Mediarahan",
+            "Mapsiodyne",
+            "Life Aid",
+            "Concentrate",
+            "Psy Amp",
+            "Spell Master"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
