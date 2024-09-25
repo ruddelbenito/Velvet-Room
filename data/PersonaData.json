@@ -2241,6 +2241,402 @@
             "Salvation"
         ]
     },
+    "Captain Kidd": {
+        "arcana": "Chariot",
+        "level": 4,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Zio",
+            "Lunge",
+            "Tarukaja",
+            "Headbutt",
+            "Adverse Resolve",
+            "Rampage",
+            "Mazio",
+            "Memory Blow",
+            "Assault Dive",
+            "Zionga",
+            "Swift Strike",
+            "Shock Boost",
+            "Elec Break",
+            "Mazionga",
+            "Deathbound",
+            "Elec Boost",
+            "Megaton Raid",
+            "Ziodyne",
+            "Matarukaja",
+            "Charge",
+            "Maziodyne",
+            "Agneyastra",
+            "God's Hand"
+        ]
+    },
+    "Seiten Taisei": {
+        "arcana": "Chariot",
+        "level": "Inherited",
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Zio",
+            "Lunge",
+            "Tarukaja",
+            "Headbutt",
+            "Adverse Resolve",
+            "Rampage",
+            "Mazio",
+            "Memory Blow",
+            "Assault Dive",
+            "Zionga",
+            "Swift Strike",
+            "Shock Boost",
+            "Elec Break",
+            "Mazionga",
+            "Deathbound",
+            "Elec Boost",
+            "Megaton Raid",
+            "Ziodyne",
+            "Matarukaja",
+            "Charge",
+            "Maziodyne",
+            "Agneyastra",
+            "God's Hand",
+            "Evade Wind"
+        ]
+    },
+    "William": {
+        "arcana": "Chariot",
+        "level": "Inherited",
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Zio",
+            "Lunge",
+            "Tarukaja",
+            "Headbutt",
+            "Adverse Resolve",
+            "Rampage",
+            "Mazio",
+            "Memory Blow",
+            "Assault Dive",
+            "Zionga",
+            "Swift Strike",
+            "Shock Boost",
+            "Elec Break",
+            "Mazionga",
+            "Deathbound",
+            "Elec Boost",
+            "Megaton Raid",
+            "Ziodyne",
+            "Matarukaja",
+            "Charge",
+            "Maziodyne",
+            "Agneyastra",
+            "God's Hand",
+            "Evade Wind",
+            "Fighting Spirit"
+        ]
+    },
+    "Agathion": {
+        "arcana": "Chariot",
+        "level": 3,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Gun",
+            "Electricity"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Dia",
+            "Baisudi",
+            "Lunge",
+            "Rakukaja",
+            "Zio",
+            "Dodge Elec"
+        ]
+    },
+    "Slime": {
+        "arcana": "Chariot",
+        "level": 10,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical",
+            "Gun"
+        ],
+        "weakness": [
+            "Fire",
+            "Wind"
+        ],
+        "skills": [
+            "Lunge",
+            "Evil Touch",
+            "Tarunda",
+            "Fire Wall",
+            "Headbutt"
+        ]
+    },
+    "Shiki-Ouji": {
+        "arcana": "Chariot",
+        "level": 18,
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Physical",
+            "Gun",
+            "Bless",
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Tarukaja",
+            "Taunt",
+            "Double Shot",
+            "Mapsi",
+            "Dekaja",
+            "Psio",
+            "Oni-Kagura"
+        ]
+    },
+    "Kin-Ki": {
+        "arcana": "Chariot",
+        "level": 25,
+        "inherit": "Physical",
+        "reflect": [
+            "Gun"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [],
+        "skills": [
+            "Vajra Blast",
+            "Rakukaja",
+            "Regenrate 1",
+            "Sledgehammer",
+            "Dodge Psy",
+            "Bad Beat",
+            "Counterstrike"
+        ]
+    },
+    "Ara Mitama": {
+        "arcana": "Chariot",
+        "level": 30,
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Miracle Punch",
+            "Freila",
+            "Taunt",
+            "Rebellion",
+            "Marakunda",
+            "Rage Boost",
+            "Matarukaja"
+        ]
+    },
+    "White Rider": {
+        "arcana": "Chariot",
+        "level": 38,
+        "inherit": "Curse",
+        "reflect": [
+            "Curse"
+        ],
+        "absorb": [],
+        "block": [
+            "Fire",
+            "Bless"
+        ],
+        "resist": [],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Triple Down",
+            "Evil Touch",
+            "Oni-Kagura",
+            "Gun Boost",
+            "Maeiga",
+            "Masukukaja",
+            "Foul Breath",
+            "Ailment Boost"
+        ]
+    },
+    "Athena": {
+        "arcana": "Chariot",
+        "level": 46,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun"
+        ],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Akashic Arts",
+            "Rising Slash",
+            "Marakukaja",
+            "Diarahan",
+            "Matarukaja",
+            "Auto-Maraku",
+            "Samarecarm",
+            "Megaton Raid"
+        ]
+    },
+    "Athena Picaro": {
+        "arcana": "Chariot",
+        "level": 50,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun"
+        ],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Akashic Arts",
+            "Matarukaja",
+            "Rising Slash",
+            "Diarahan",
+            "Marakukaja",
+            "Auto-Mataru",
+            "Samarecarm",
+            "Megaton Raid"
+        ]
+    },
+    "Cerberus": {
+        "arcana": "Chariot",
+        "level": 55,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [],
+        "resist": [
+            "Nuclear"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Agidyne",
+            "Megaton Raid",
+            "Rebellion",
+            "High Counter",
+            "Maragidyne",
+            "Enduring Soul"
+        ]
+    },
+    "Thor": {
+        "arcana": "Chariot",
+        "level": 64,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Physical",
+            "Bless",
+            "Curse"
+        ],
+        "weakness": [],
+        "skills": [
+            "Ziodyne",
+            "Megaton Raid",
+            "High Counter",
+            "Elec Amp",
+            "Maziodyne",
+            "Heat Up",
+            "Wild Thunder"
+        ]
+    },
+    "Chi You": {
+        "arcana": "Chariot",
+        "level": 88,
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Psychokinesis"
+        ],
+        "resist": [
+            "Physical",
+            "Gun"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Psycho Force",
+            "Repel Phys",
+            "Gigantomachia",
+            "Fortify Spirit",
+            "Psycho Blast",
+            "Drain Psy",
+            "Concentrate"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
