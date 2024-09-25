@@ -1908,6 +1908,339 @@
             "Spell Master"
         ]
     },
+    "Carmen": {
+        "arcana": "Lovers",
+        "level": 5,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Agi",
+            "Dia",
+            "Dormina",
+            "Tarunda",
+            "Maragi",
+            "Dekaja",
+            "Agilao",
+            "Fire Break",
+            "Diarama",
+            "Lullaby",
+            "Ambient Aid",
+            "Maragion",
+            "Fire Boost",
+            "Matarunda",
+            "Agidyne",
+            "Burn Boost",
+            "Maragidyne",
+            "Diarahan",
+            "Concentrate",
+            "Fire Amp",
+            "Blazing Hell"
+        ]
+    },
+    "Hecate": {
+        "arcana": "Lovers",
+        "level": "Inherited",
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Fire"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Agi",
+            "Dia",
+            "Dormina",
+            "Tarunda",
+            "Maragi",
+            "Dekaja",
+            "Agilao",
+            "Fire Break",
+            "Diarama",
+            "Lullaby",
+            "Ambient Aid",
+            "Maragion",
+            "Fire Boost",
+            "Matarunda",
+            "Agidyne",
+            "Burn Boost",
+            "Maragidyne",
+            "Diarahan",
+            "Concentrate",
+            "Fire Amp",
+            "Blazing Hell",
+            "Evade Ice"
+        ]
+    },
+    "Célestine": {
+        "arcana": "Lovers",
+        "level": "Inherited",
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Fire"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Agi",
+            "Dia",
+            "Dormina",
+            "Tarunda",
+            "Maragi",
+            "Dekaja",
+            "Agilao",
+            "Fire Break",
+            "Diarama",
+            "Lullaby",
+            "Ambient Aid",
+            "Maragion",
+            "Fire Boost",
+            "Matarunda",
+            "Agidyne",
+            "Burn Boost",
+            "Maragidyne",
+            "Diarahan",
+            "Concentrate",
+            "Fire Amp",
+            "Blazing Hell",
+            "Evade Ice",
+            "High Energy"
+        ]
+    },
+    "Pixie": {
+        "arcana": "Lovers",
+        "level": 2,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity",
+            "Bless"
+        ],
+        "weakness": [
+            "Gun",
+            "Ice",
+            "Curse"
+        ],
+        "skills": [
+            "Zio",
+            "Dia",
+            "Patra",
+            "Tarukaja",
+            "Resist Confuse"
+        ]
+    },
+    "Saki Mitama": {
+        "arcana": "Lovers",
+        "level": 6,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Bufu",
+            "Energy Drop",
+            "Wind Wall",
+            "Growth 1",
+            "Rakukaja",
+            "Resist Dizzy"
+        ]
+    },
+    "Ame-no-Uzume": {
+        "arcana": "Lovers",
+        "level": 13,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [],
+        "resist": [],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Mazio",
+            "Magaru",
+            "Media",
+            "Nocturnal Flash",
+            "Baisudi",
+            "Divine Grace"
+        ]
+    },
+    "Leanan Sidhe": {
+        "arcana": "Lovers",
+        "level": 19,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Wind",
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Rakunda",
+            "Psio",
+            "Marin Karin",
+            "Mamudo",
+            "Mapsi",
+            "Eiga"
+        ]
+    },
+    "Kushinada-Hime": {
+        "arcana": "Lovers",
+        "level": 42,
+        "inherit": "Recovery",
+        "reflect": [
+            "Bless"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [
+            "Ice",
+            "Nuclear"
+        ],
+        "skills": [
+            "Hysterical Slap",
+            "Psy Wall",
+            "Mediarama",
+            "Matarukaja",
+            "Null Confuse",
+            "Wind Wall",
+            "Amrita Shower",
+            "Null Ice"
+        ]
+    },
+    "Narcissus": {
+        "arcana": "Lovers",
+        "level": 48,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Wind",
+            "Bless"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Dazzler",
+            "Magarula",
+            "Energy Drop",
+            "Growth 3",
+            "Dizzy Boost",
+            "Mediarama",
+            "Ambient Aid"
+        ]
+    },
+    "Parvati": {
+        "arcana": "Lovers",
+        "level": 56,
+        "inherit": "Psychokinesis",
+        "reflect": [
+            "Ice"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Psychokinesis",
+            "Bless"
+        ],
+        "weakness": [
+            "Curse"
+        ],
+        "skills": [
+            "Diarama",
+            "Psiodyne",
+            "Psy Break",
+            "Energy Shower",
+            "Diarahan",
+            "Mapsiodyne",
+            "Null Ice"
+        ]
+    },
+    "Raphael": {
+        "arcana": "Lovers",
+        "level": 78,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [
+            "Ice"
+        ],
+        "block": [
+            "Psychokinesis",
+            "Bless"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Sword Dance",
+            "Charge",
+            "Dekaja",
+            "Heat Riser",
+            "Growth 3",
+            "Adverse Resolve",
+            "Arms Master"
+        ]
+    },
+    "Ishtar": {
+        "arcana": "Lovers",
+        "level": 85,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Mediarahan",
+            "Samarecarm",
+            "Drain Wind",
+            "Insta-Heal",
+            "Maziodyne",
+            "Spell Master",
+            "Salvation"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
