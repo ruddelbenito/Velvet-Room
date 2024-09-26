@@ -2637,6 +2637,321 @@
             "Concentrate"
         ]
     },
+    "Robin Hood": {
+        "arcana": "Justice",
+        "level": 45,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [
+            "Curse"
+        ],
+        "skills": [
+            "Megidola",
+            "Megaton Raid",
+            "Kouga",
+            "Eiga",
+            "Hamaon",
+            "Mudoon",
+            "Fortify Spirit",
+            "Kougaon",
+            "Eigaon",
+            "Attack Master",
+            "Samarecarm",
+            "Mahamaon",
+            "Mamudoon",
+            "Megidolaon",
+            "Debilitate"
+        ]
+    },
+    "Loki": {
+        "arcana": "Justice",
+        "level": 75,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Fortify Spirit",
+            "Laevateinn",
+            "Megidolaon",
+            "Debilitate",
+            "Riot Gun",
+            "Eigaon",
+            "Attack Master",
+            "Evade Bless"
+        ]
+    },
+    "Hereward": {
+        "arcana": "Justice",
+        "level": "Inherited",
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Fortify Spirit",
+            "Laevateinn",
+            "Megidolaon",
+            "Debilitate",
+            "Riot Gun",
+            "Eigaon",
+            "Attack Master",
+            "Evade Bless",
+            "Rebellion Blade"
+        ]
+    },
+    "Angel": {
+        "arcana": "Justice",
+        "level": 9,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Gun",
+            "Curse"
+        ],
+        "skills": [
+            "Kouha",
+            "Makajama",
+            "Dia",
+            "Baisudi",
+            "Dodge Curse",
+            "Dekunda"
+        ]
+    },
+    "Archangel": {
+        "arcana": "Justice",
+        "level": 14,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [],
+        "weakness": [
+            "Electricity",
+            "Curse"
+        ],
+        "skills": [
+            "Giant Slice",
+            "Dazzler",
+            "Hama",
+            "Rebellion",
+            "Power Slash",
+            "Vajra Blast"
+        ]
+    },
+    "Principality": {
+        "arcana": "Justice",
+        "level": 29,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Fire"
+        ],
+        "weakness": [
+            "Curse"
+        ],
+        "skills": [
+            "Makouga",
+            "Makajamaon",
+            "Tetraja",
+            "Mediarama",
+            "Forget Boost",
+            "Bless Boost",
+            "Mabaisudi"
+        ]
+    },
+    "Power": {
+        "arcana": "Justice",
+        "level": 41,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Gun",
+            "Curse"
+        ],
+        "skills": [
+            "Hamaon",
+            "Brainshake",
+            "Swift Strike",
+            "Makouga",
+            "Bless Boost",
+            "Masukukaja",
+            "Null Curse"
+        ]
+    },
+    "Melchizedek": {
+        "arcana": "Justice",
+        "level": 58,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [
+            "Bless"
+        ],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Megaton Raid",
+            "Hamaon",
+            "Hama Boost",
+            "Revolution",
+            "Mahamaon",
+            "Amrita Drop",
+            "God's Hand"
+        ]
+    },
+    "Dominion": {
+        "arcana": "Justice",
+        "level": 68,
+        "inherit": "Bless",
+        "reflect": [
+            "Nuclear"
+        ],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Makajamaon",
+            "Hamaon",
+            "Kougaon",
+            "Makougaon",
+            "Hama Boost",
+            "Mahamaon",
+            "Evade Curse"
+        ]
+    },
+    "Throne": {
+        "arcana": "Justice",
+        "level": 71,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Nuclear"
+        ],
+        "weakness": [
+            "Curse"
+        ],
+        "skills": [
+            "Mahamaon",
+            "Invigorate 3",
+            "Hama Boost",
+            "Makougaon",
+            "Bless Amp",
+            "Evade Curse",
+            "Auto-Maraku"
+        ]
+    },
+    "Uriel": {
+        "arcana": "Justice",
+        "level": 72,
+        "inherit": "Almighty",
+        "reflect": [
+            "Bless"
+        ],
+        "absorb": [
+            "Nuclear"
+        ],
+        "block": [
+            "Fire"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Deathbound",
+            "Myriad Slashes",
+            "Bloodbath",
+            "Repel Nuke",
+            "Megidolaon",
+            "Angelic Grace",
+            "Spell Master"
+        ]
+    },
+    "Metatron": {
+        "arcana": "Justice",
+        "level": 89,
+        "inherit": "Bless",
+        "reflect": [
+            "Wind"
+        ],
+        "absorb": [
+            "Psychokinesis",
+            "Nuclear"
+        ],
+        "block": [],
+        "resist": [],
+        "weakness": [
+            "Electricity",
+            "Curse"
+        ],
+        "skills": [
+            "Mahamaon",
+            "Sword Dance",
+            "Makougaon",
+            "Megidolaon",
+            "Hama Boost",
+            "Concentrate",
+            "Bless Amp",
+            "Divine Judgement"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
