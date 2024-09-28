@@ -3774,6 +3774,232 @@
             "Blazing Hell"
         ]
     },
+    "Hua Po": {
+        "arcana": "Hanged Man",
+        "level": 9,
+        "inherit": "Fire",
+        "reflect": [
+            "Fire"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [
+            "Gun",
+            "Ice"
+        ],
+        "skills": [
+            "Agi",
+            "Dormina",
+            "Tarunda",
+            "Resist Forget",
+            "Maragi",
+            "Burn Boost"
+        ]
+    },
+    "Inugami": {
+        "arcana": "Hanged Man",
+        "level": 14,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun",
+            "Fire",
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Pulinpa",
+            "Tarukaja",
+            "Giant Slice",
+            "Dream Needle",
+            "Lucky Punch",
+            "Brainshake",
+            "Confuse Boost"
+        ]
+    },
+    "Orthrus": {
+        "arcana": "Hanged Man",
+        "level": 21,
+        "inherit": "Fire",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [],
+        "resist": [
+            "Nuclear"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Agilao",
+            "Double Fangs",
+            "Maragi",
+            "Burn Boost",
+            "Cornered Fang",
+            "Matarukaja"
+        ]
+    },
+    "Take-Minakata": {
+        "arcana": "Hanged Man",
+        "level": 26,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity",
+            "Curse"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Zionga",
+            "Assault Dive",
+            "Defense Master",
+            "Mazionga",
+            "Elec Boost",
+            "Swift Strike",
+            "Shock Boost"
+        ]
+    },
+    "Hecatoncheires": {
+        "arcana": "Hanged Man",
+        "level": 42,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Gun"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Swift Strike",
+            "Regenerate 2",
+            "Tarukaja",
+            "Endure",
+            "Rebellion",
+            "Fortified Moxy",
+            "Gatling Blow"
+        ]
+    },
+    "Jatayu": {
+        "arcana": "Hanged Man",
+        "level": 51,
+        "inherit": "Wind",
+        "reflect": [
+            "Wind"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice",
+            "Bless"
+        ],
+        "weakness": [
+            "Nuclear"
+        ],
+        "skills": [
+            "Garudyne",
+            "Masukukaja",
+            "Nocturnal Flash",
+            "Dizzy Boost",
+            "Wind Amp",
+            "Magarudyne",
+            "Speed Master"
+        ]
+    },
+    "Moloch": {
+        "arcana": "Hanged Man",
+        "level": 60,
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [
+            "Fire",
+            "Psychokinesis"
+        ],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Electricity",
+            "Wind"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Agidyne",
+            "Stagnant Air",
+            "Evil Smile",
+            "Maragidyne",
+            "Ghastly Wail",
+            "Drain Fire",
+            "Fire Amp"
+        ]
+    },
+    "Macabre": {
+        "arcana": "Hanged Man",
+        "level": 73,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Death Scythe",
+            "Evil Smile",
+            "Mamudoon",
+            "Auto-Masuku",
+            "Ghastly Wail",
+            "Myriad Slashes",
+            "Ali Dance"
+        ]
+    },
+    "Attis": {
+        "arcana": "Hanged Man",
+        "level": 82,
+        "inherit": "Fire",
+        "reflect": [
+            "Wind"
+        ],
+        "absorb": [],
+        "block": [
+            "Fire"
+        ],
+        "resist": [],
+        "weakness": [
+            "Curse"
+        ],
+        "skills": [
+            "Maragidyne",
+            "Salvation",
+            "Thermopylae",
+            "Enduring Soul",
+            "Samarecarm",
+            "Drain Curse",
+            "Blazing Hell"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
