@@ -4294,6 +4294,224 @@
             "Survival Trick"
         ]
     },
+    "Genbu": {
+        "arcana": "Temperance",
+        "level": 7,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice"
+        ],
+        "resist": [
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Bufu",
+            "Rakunda",
+            "Patra",
+            "Resist Forget",
+            "Mabufu",
+            "Defense Master"
+        ]
+    },
+    "Koppa Tengu": {
+        "arcana": "Temperance",
+        "level": 11,
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Ice",
+            "Bless"
+        ],
+        "skills": [
+            "Garu",
+            "Sukukaja",
+            "Growth 1",
+            "Taunt",
+            "Rage Boost",
+            "Wage War"
+        ]
+    },
+    "Makami": {
+        "arcana": "Temperance",
+        "level": 15,
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun",
+            "Bless"
+        ],
+        "resist": [
+            "Wind",
+            "Nuclear"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Double Fangs",
+            "Frei",
+            "Energy Drop",
+            "Mafrei",
+            "Makajama",
+            "Resist Despair",
+            "Dodge Elec"
+        ]
+    },
+    "Jikokuten": {
+        "arcana": "Temperance",
+        "level": 22,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical",
+            "Bless"
+        ],
+        "weakness": [
+            "Curse"
+        ],
+        "skills": [
+            "Assault Dive",
+            "Defense Master",
+            "Rakunda",
+            "Kill Rush",
+            "Counter",
+            "Matarukaja",
+            "Adverse Resolve"
+        ]
+    },
+    "Mitra": {
+        "arcana": "Temperance",
+        "level": 33,
+        "inherit": "Bless",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice",
+            "Bless"
+        ],
+        "resist": [],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Kouga",
+            "Mahama",
+            "Diarama",
+            "Makouga",
+            "Dekunda",
+            "Bless Boost",
+            "Thermopylae"
+        ]
+    },
+    "Byakko": {
+        "arcana": "Temperance",
+        "level": 45,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [
+            "Ice"
+        ],
+        "block": [],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Fire",
+            "Nuclear"
+        ],
+        "skills": [
+            "Swift Strike",
+            "Mabufula",
+            "Counterstrike",
+            "Ice Boost",
+            "Ice Break",
+            "Evade Fire",
+            "Null Rage",
+            "Bufudyne"
+        ]
+    },
+    "Naga Raja": {
+        "arcana": "Temperance",
+        "level": 55,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Ziodyne",
+            "Elec Break",
+            "Tentarafoo",
+            "Shock Boost",
+            "Makarakarn",
+            "Maziodyne",
+            "Evade Wind"
+        ]
+    },
+    "Gabriel": {
+        "arcana": "Temperance",
+        "level": 77,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [
+            "Bless"
+        ],
+        "block": [
+            "Psychokinesis"
+        ],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Maziodyne",
+            "Mabufudyne",
+            "Divine Judgement",
+            "Ali Dance",
+            "Evade Curse",
+            "Touch n' Go",
+            "Ice Amp",
+            "Salvation"
+        ]
+    },
+    "Ardha": {
+        "arcana": "Temperance",
+        "level": 84,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice",
+            "Electricity"
+        ],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [],
+        "skills": [
+            "God's Hand",
+            "Cosmic Flare",
+            "Invigorate 3",
+            "Agneyastra",
+            "Auto-Masuku",
+            "Fortified Moxy",
+            "Salvation"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
