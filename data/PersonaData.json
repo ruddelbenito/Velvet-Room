@@ -2453,7 +2453,7 @@
         "skills": [
             "Vajra Blast",
             "Rakukaja",
-            "Regenrate 1",
+            "Regenerate 1",
             "Sledgehammer",
             "Dodge Psy",
             "Bad Beat",
@@ -3552,6 +3552,226 @@
             "Climate Decorum",
             "Amrita Shower",
             "Life Aid"
+        ]
+    },
+    "Kelpie": {
+        "arcana": "Strength",
+        "level": 6,
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Garu",
+            "Lunge",
+            "Resist Brainwash",
+            "Sukukaja",
+            "Terror Claw"
+        ]
+    },
+    "Shiisaa": {
+        "arcana": "Strength",
+        "level": 15,
+        "inherit": "Nuclear",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Psychokinesis",
+            "Curse"
+        ],
+        "skills": [
+            "Double Fangs",
+            "Skull Cracker",
+            "Frei",
+            "Dodge Curse",
+            "Rampage",
+            "Dodge Elec"
+        ]
+    },
+    "Oni": {
+        "arcana": "Strength",
+        "level": 20,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical",
+            "Gun"
+        ],
+        "weakness": [],
+        "skills": [
+            "Rampage",
+            "Counter",
+            "Snap",
+            "Giant Slice",
+            "Sharp Student",
+            "Memory Blow"
+        ]
+    },
+    "Rakshasa": {
+        "arcana": "Strength",
+        "level": 24,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Gun"
+        ],
+        "resist": [
+            "Physical",
+            "Fire",
+            "Curse"
+        ],
+        "weakness": [
+            "Wind",
+            "Bless"
+        ],
+        "skills": [
+            "Giant Slice",
+            "Wind Wall",
+            "Tarukaja",
+            "Regenerate 1",
+            "Mind Slice",
+            "Counterstrike",
+            "Adverse Resolve"
+        ]
+    },
+    "Zouchouten": {
+        "arcana": "Strength",
+        "level": 31,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Kill Rush",
+            "Zionga",
+            "Terror Claw",
+            "Sharp Student",
+            "Resist Fear",
+            "Swift Strike",
+            "Attack Master"
+        ]
+    },
+    "Valkyrie": {
+        "arcana": "Strength",
+        "level": 44,
+        "inherit": "Physical",
+        "reflect": [
+            "Ice"
+        ],
+        "absorb": [],
+        "block": [
+            "Bless"
+        ],
+        "resist": [
+            "Gun"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Rising Slash",
+            "Counterstrike",
+            "Attack Master",
+            "Deathbound",
+            "Matarukaja",
+            "Dodge Phys"
+        ]
+    },
+    "Hanuman": {
+        "arcana": "Strength",
+        "level": 64,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Gun",
+            "Psychokinesis",
+            "Bless"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Tempest Slash",
+            "Matarunda",
+            "Revolution",
+            "Deathbound",
+            "Tetra Break",
+            "Regenerate 3"
+        ]
+    },
+    "Chimera": {
+        "arcana": "Strength",
+        "level": 74,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [
+            "Fire"
+        ],
+        "block": [
+            "Ice"
+        ],
+        "resist": [],
+        "weakness": [
+            "Wind",
+            "Curse"
+        ],
+        "skills": [
+            "Maragidyne",
+            "Heat Wave",
+            "Bufudyne",
+            "Marakunda",
+            "Fire Amp",
+            "Mabufudyne",
+            "Ice Amp"
+        ]
+    },
+    "Zaou-Gongen": {
+        "arcana": "Strength",
+        "level": 80,
+        "inherit": "Fire",
+        "reflect": [
+            "Fire"
+        ],
+        "absorb": [],
+        "block": [
+            "Bless",
+            "Curse"
+        ],
+        "resist": [],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Maragidyne",
+            "Abysmal Surge",
+            "God's Hand",
+            "Evade Phys",
+            "Enduring Soul",
+            "Gun Amp",
+            "Blazing Hell"
         ]
     },
     "template": {
