@@ -3305,6 +3305,255 @@
             "Agneyastra"
         ]
     },
+    "Clotho": {
+        "arcana": "Fortune",
+        "level": 27,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Wind"
+        ],
+        "resist": [],
+        "weakness": [
+            "Ice",
+            "Nuclear"
+        ],
+        "skills": [
+            "Mahama",
+            "Me Patra",
+            "Makajama",
+            "Tetraja",
+            "Makajamaon",
+            "Energy Shower",
+            "Invigorate 1"
+        ]
+    },
+    "Ariadne": {
+        "arcana": "Fortune",
+        "level": 30,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Nuclear"
+        ],
+        "resist": [
+            "Gun",
+            "Bless"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Beast Weaver",
+            "Apt Pupil",
+            "Miracle Punch",
+            "Attack Master",
+            "Fortified Moxy",
+            "Evade Phys",
+            "Charge"
+        ]
+    },
+    "Lachesis": {
+        "arcana": "Fortune",
+        "level": 35,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Ice"
+        ],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Mabaisudi",
+            "Bufula",
+            "Growth 2",
+            "Marakukaja",
+            "Elec Wall",
+            "Mabufula",
+            "Ice Boost"
+        ]
+    },
+    "Atropos": {
+        "arcana": "Fortune",
+        "level": 39,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Wind"
+        ],
+        "resist": [],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Mazionga",
+            "Fire Wall",
+            "Elec Break",
+            "Mediarama",
+            "Elec Boost",
+            "Ziodyne",
+            "Concentrate"
+        ]
+    },
+    "Ariadne Picaro": {
+        "arcana": "Fortune",
+        "level": 42,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Nuclear"
+        ],
+        "resist": [
+            "Gun",
+            "Bless"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Beast Weaver",
+            "Apt Pupil",
+            "Miracle Punch",
+            "Auto-Mataru",
+            "Heat Up",
+            "Evade Phys",
+            "Charge"
+        ]
+    },
+    "Fortuna": {
+        "arcana": "Fortune",
+        "level": 46,
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Fire",
+            "Wind"
+        ],
+        "resist": [],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Magarula",
+            "Masukukaja",
+            "Tetraja",
+            "Garudyne",
+            "Touch n' Go",
+            "Amrita Drop",
+            "Evade Elec"
+        ]
+    },
+    "Norn": {
+        "arcana": "Fortune",
+        "level": 0,
+        "inherit": "Almighty",
+        "reflect": [
+            "Electricity"
+        ],
+        "absorb": [
+            "Wind"
+        ],
+        "block": [],
+        "resist": [
+            "Bless"
+        ],
+        "weakness": [],
+        "skills": [
+            "Ziodyne",
+            "Garudyne",
+            "Nocturnal Flash",
+            "Diarahan",
+            "Amrita Drop",
+            "Tetraja",
+            "Samarecarm"
+        ]
+    },
+    "Asterius": {
+        "arcana": "Fortune",
+        "level": 56,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Fire",
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Titanomachia",
+            "Maragidyne",
+            "Burn Boost",
+            "Auto-Mataru",
+            "Fire Amp",
+            "Tetrakarn",
+            "Gigantomachia"
+        ]
+    },
+    "Asterius Picaro": {
+        "arcana": "Fortune",
+        "level": 62,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Fire",
+            "Psychokinesis"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Titanomachia",
+            "Maragidyne",
+            "Burn Boost",
+            "Auto-Mataru",
+            "Fire Amp",
+            "Tetrakarn",
+            "Gigantomachia"
+        ]
+    },
+    "Lakshmi": {
+        "arcana": "Fortune",
+        "level": 69,
+        "inherit": "Recovery",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice",
+            "Bless"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Lullaby",
+            "Diarahan",
+            "Bufudyne",
+            "Mediarahan",
+            "Climate Decorum",
+            "Amrita Shower",
+            "Life Aid"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
