@@ -2952,6 +2952,359 @@
             "Divine Judgement"
         ]
     },
+    "Necronomicron": {
+        "arcana": "Hermit",
+        "level": 31,
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Analysis",
+            "Subrecover HP",
+            "Subrecover SP",
+            "Subrecover HP EX",
+            "Subrecover SP EX"
+        ]
+    },
+    "Prometheus": {
+        "arcana": "Hermit",
+        "level": "Inherited",
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Analysis",
+            "Subrecover HP",
+            "Subrecover SP",
+            "Subrecover HP EX",
+            "Subrecover SP EX",
+            "Treasure Skimmer"
+        ]
+    },
+    "Al Azif": {
+        "arcana": "Hermit",
+        "level": "Inherited",
+        "inherit": "Almighty",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [],
+        "skills": [
+            "Analysis",
+            "Subrecover HP",
+            "Subrecover SP",
+            "Subrecover HP EX",
+            "Subrecover SP EX",
+            "Treasure Skimmer",
+            "Ultimate Support"
+        ]
+    },
+    "Bicorn": {
+        "arcana": "Hermit",
+        "level": 4,
+        "inherit": "Wind",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Lunge",
+            "Tarunda",
+            "Garu",
+            "Ice Wall",
+            "Apt Pupil"
+        ]
+    },
+    "Koropokguru": {
+        "arcana": "Hermit",
+        "level": 9,
+        "inherit": "Ice",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Ice",
+            "Wind"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Makajama",
+            "Bufu",
+            "Dodge Ice",
+            "Sukunda",
+            "Fire Wall",
+            "Mabufu",
+            "Climate Decorum"
+        ]
+    },
+    "Ippon-Datara": {
+        "arcana": "Hermit",
+        "level": 13,
+        "inherit": "Physical",
+        "reflect": [
+            "Wind"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Fire",
+            "Bless",
+            "Curse"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Sledgehammer",
+            "Tarukaja",
+            "Resist Dizzy",
+            "Rampage",
+            "Sharp Student",
+            "Counter"
+        ]
+    },
+    "Sudama": {
+        "arcana": "Hermit",
+        "level": 17,
+        "inherit": "Psychokinesis",
+        "reflect": [
+            "Wind"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [],
+        "weakness": [
+            "Ice",
+            "Nuclear"
+        ],
+        "skills": [
+            "Mapsi",
+            "Lucky Punch",
+            "Tarukaja",
+            "Ambient Aid",
+            "Wind Wall",
+            "Apt Pupil",
+            "Psio"
+        ]
+    },
+    "Naga": {
+        "arcana": "Hermit",
+        "level": 24,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Gun"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Power Slash",
+            "Memory Blow",
+            "Zionga",
+            "Shock Boost",
+            "Counter",
+            "Mazionga",
+            "Marakukaja"
+        ]
+    },
+    "Kurama Tengu": {
+        "arcana": "Hermit",
+        "level": 31,
+        "inherit": "Wind",
+        "reflect": [
+            "Wind"
+        ],
+        "absorb": [],
+        "block": [
+            "Ice"
+        ],
+        "resist": [
+            "Bless",
+            "Curse"
+        ],
+        "weakness": [],
+        "skills": [
+            "Double Shot",
+            "Masukunda",
+            "Magarula",
+            "Wind Boost",
+            "Brain Jack",
+            "Growth 2"
+        ]
+    },
+    "Arahabaki": {
+        "arcana": "Hermit",
+        "level": 35,
+        "inherit": "Ailment",
+        "reflect": [
+            "Physical",
+            "Gun"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Bless",
+            "Curse"
+        ],
+        "weakness": [
+            "Psychokinesis",
+            "Nuclear"
+        ],
+        "skills": [
+            "Makarakarn",
+            "Abysmal Surge",
+            "Null Brainwash",
+            "Spirit Drain",
+            "Flash Bomb",
+            "Defense Master"
+        ]
+    },
+    "Kumbhanda": {
+        "arcana": "Hermit",
+        "level": 42,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Fire"
+        ],
+        "resist": [
+            "Curse"
+        ],
+        "weakness": [
+            "Psychokinesis"
+        ],
+        "skills": [
+            "Magarula",
+            "Stagnant Air",
+            "Bloodbath",
+            "Tempest Slash",
+            "Dekaja",
+            "Fear Boost",
+            "Revolution"
+        ]
+    },
+    "Koumokuten": {
+        "arcana": "Hermit",
+        "level": 49,
+        "inherit": "Physical",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical",
+            "Bless"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "skills": [
+            "Assault Dive",
+            "Regenerate 2",
+            "Revolution",
+            "Attack Master",
+            "Ice Wall",
+            "Enduring Soul",
+            "Deadly Fury"
+        ]
+    },
+    "Loa": {
+        "arcana": "Hermit",
+        "level": 70,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Fire",
+            "Nuclear"
+        ],
+        "weakness": [
+            "Psychokinesis",
+            "Bless"
+        ],
+        "skills": [
+            "Mamudoon",
+            "Abysmal Surge",
+            "Life Drain",
+            "Maeigaon",
+            "Drain Curse",
+            "Spirit Drain",
+            "Fortify Spirit"
+        ]
+    },
+    "Fafnir": {
+        "arcana": "Hermit",
+        "level": 86,
+        "inherit": "Nuclear",
+        "reflect": [
+            "Physical",
+            "Gun"
+        ],
+        "absorb": [
+            "Fire",
+            "Nuclear"
+        ],
+        "block": [],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [],
+        "skills": [
+            "Gigantomachia",
+            "Evil Smile",
+            "Cosmic Flare",
+            "Atomic Flare",
+            "Nuke Amp",
+            "Debilitate",
+            "Drain Nuke"
+        ]
+    },
+    "Ongyo-Ki": {
+        "arcana": "Hermit",
+        "level": 89,
+        "inherit": "Physical",
+        "reflect": [
+            "Bless",
+            "Curse"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [],
+        "skills": [
+            "Myriad Slashes",
+            "Makajamaon",
+            "Last Stand",
+            "Arms Master",
+            "Regenerate 3",
+            "Firm Stance",
+            "Agneyastra"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
