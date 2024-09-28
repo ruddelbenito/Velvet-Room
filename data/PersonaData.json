@@ -4000,6 +4000,300 @@
             "Blazing Hell"
         ]
     },
+    "Mandrake": {
+        "arcana": "Death",
+        "level": 3,
+        "inherit": "Electricity",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Pulinpa",
+            "Energy Drop",
+            "Lunge",
+            "Sukunda"
+        ]
+    },
+    "Mokoi": {
+        "arcana": "Death",
+        "level": 9,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Tarukaja",
+            "Dazzler",
+            "Skull Cracker",
+            "Marin Karin",
+            "Dodge Elec",
+            "Dekunda"
+        ]
+    },
+    "Matador": {
+        "arcana": "Death",
+        "level": 17,
+        "inherit": "Psychokinesis",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Wind"
+        ],
+        "resist": [],
+        "weakness": [
+            "Electricity"
+        ],
+        "skills": [
+            "Psi",
+            "Null Dizzy",
+            "Sukukaja",
+            "Mapsi",
+            "Double Shot",
+            "Swift Strike"
+        ]
+    },
+    "Nue": {
+        "arcana": "Death",
+        "level": 20,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Ice"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "skills": [
+            "Maeiha",
+            "Skull Cracker",
+            "Mudo",
+            "Pulinpa",
+            "Mamudo",
+            "Assault Dive",
+            "Curse Boost"
+        ]
+    },
+    "Pisaca": {
+        "arcana": "Death",
+        "level": 28,
+        "inherit": "Curse",
+        "reflect": [],
+        "absorb": [],
+        "block": [
+            "Curse"
+        ],
+        "resist": [
+            "Electricity"
+        ],
+        "weakness": [
+            "Fire",
+            "Bless"
+        ],
+        "skills": [
+            "Dream Needle",
+            "Rampage",
+            "Stagnant Air",
+            "Mamudo",
+            "Abysmal Surge",
+            "Despair Boost",
+            "Mudoon"
+        ]
+    },
+    "Hell Biker": {
+        "arcana": "Death",
+        "level": 37,
+        "inherit": "Fire",
+        "reflect": [
+            "Fire"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Mudoon",
+            "Agilao",
+            "Speed Master",
+            "Tentarafoo",
+            "Fire Boost",
+            "Maragion",
+            "Mamudoon"
+        ]
+    },
+    "Pale  Rider": {
+        "arcana": "Death",
+        "level": 54,
+        "inherit": "Curse",
+        "reflect": [
+            "Curse"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Wind"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Abysmal Surge",
+            "Eigaon",
+            "Brainshake",
+            "Curse Boost",
+            "Megidola",
+            "Evade Bless",
+            "Deathbound"
+        ]
+    },
+    "Chernobog": {
+        "arcana": "Death",
+        "level": 62,
+        "inherit": "Ailment",
+        "reflect": [],
+        "absorb": [
+            "Ice",
+            "Curse"
+        ],
+        "block": [
+            "Electricity"
+        ],
+        "resist": [
+            "Gun"
+        ],
+        "weakness": [
+            "Fire",
+            "Bless"
+        ],
+        "skills": [
+            "Mudoon",
+            "Bloodbath",
+            "Myriad Slashes",
+            "Foul Breath",
+            "Deathbound",
+            "Fear Boost",
+            "Brave Blade"
+        ]
+    },
+    "Thanatos": {
+        "arcana": "Death",
+        "level": 65,
+        "inherit": "Almighty",
+        "reflect": [
+            "Curse"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Door of Hades",
+            "Maeigaon",
+            "Mamudoon",
+            "Curse Amp",
+            "One-shot Kill",
+            "Fortified Moxy",
+            "Enduring Soul"
+        ]
+    },
+    "Thanatos Picaro": {
+        "arcana": "Death",
+        "level": 69,
+        "inherit": "Almighty",
+        "reflect": [
+            "Curse"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Physical"
+        ],
+        "weakness": [],
+        "skills": [
+            "Door of Hades",
+            "Maeigaon",
+            "Mamudoon",
+            "Mudo Boost",
+            "One-shot Kill",
+            "Adverse Resolve",
+            "Enduring Soul"
+        ]
+    },
+    "Mot": {
+        "arcana": "Death",
+        "level": 72,
+        "inherit": "Ailment",
+        "reflect": [
+            "Curse"
+        ],
+        "absorb": [
+            "Electricity"
+        ],
+        "block": [],
+        "resist": [
+            "Gun"
+        ],
+        "weakness": [
+            "Wind"
+        ],
+        "skills": [
+            "Megidola",
+            "Matarukaja",
+            "Maeigaon",
+            "Concentrate",
+            "Megidolaon",
+            "Repel Elec"
+        ]
+    },
+    "Alice": {
+        "arcana": "Death",
+        "level": 83,
+        "inherit": "Curse",
+        "reflect": [
+            "Curse"
+        ],
+        "absorb": [],
+        "block": [],
+        "resist": [
+            "Psychokinesis",
+            "Nuclear"
+        ],
+        "weakness": [
+            "Bless"
+        ],
+        "skills": [
+            "Mamudoon",
+            "Mudo Boost",
+            "Maeigaon",
+            "Die For Me!",
+            "Megidolaon",
+            "Concentrate",
+            "Survival Trick"
+        ]
+    },
     "template": {
         "arcana": "",
         "level": 0,
